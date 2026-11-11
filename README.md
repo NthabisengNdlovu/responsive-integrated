@@ -26,7 +26,19 @@ Meta AI suggested using a single function routeAndGenerate() that calls both rou
 Person 2 implemented this, then used Meta AI to generate 3 tone variations (Formal / Simple / Friendly) for email templates
 Validated all emails with real Receiver names - checked that Receiver name appears correctly in "To:" field
 
+Zenani - Automation Specialist (Integration & Optimisation Lead)
 
+Verified Week 2 + Week 7 integration still works in final build: Routing auto-generates email, Approval swaps Requester/Receiver
+Ran Optimisation Check: Load time, button functionality, responsiveness
+Fixed responsive bugs: Buttons cut off on mobile, header too wide - made all layouts stack on phone
+Verified all 8 weeks work in All-in-One Dashboard: Chatbot, Content Generator, Sentiment, Reporting, Predictive, Compliance, Workflow, Showcase
+
+How Meta AI helped:
+
+Asked Meta AI: "Make project responsive, test mobile 375px vs desktop 1440px"
+Meta AI generated media query CSS - Zenani tested on real phone, found 0px overflow after fix
+Used Meta AI to debug integration: "Why is approval not updating content?" - Meta AI suggested calling generateApprovalContent() after status change
+Zenani implemented fix and re-tested all flows
 
 Adriyell - QA, Documentation & Sign-Off Lead
 
