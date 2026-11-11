@@ -2,7 +2,7 @@
 
 Mushaisano Setautsi
 
-Person 2 - Digital Operations Assistant (Email & Content Integration Lead)
+Digital Operations Assistant (Email & Content Integration Lead)
 What they did:
 Integrated Week 2 Content Generator with Week 7 Workflow
 Built email preview: To: (Receiver), Subject from generated content, Body = generated letter
